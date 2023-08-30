@@ -63,10 +63,6 @@ ChatGPT can be used to create intelligent chatbots that can converse with users 
 These chatbots can be used for customer service or support to produce human like responses, as well as for personal virtual assistants
 ```
 
-## 🚀 Deployment <a name = "deployment"></a>
-
-Add additional notes about how to deploy this on a live system.
-
 ## ⛏️ Built Using <a name = "built_using"></a>
 - [MongoDB](www.mongodb.com/) - Database
 - [Express](expressjs.com/) - Server Framework
@@ -75,9 +71,11 @@ Add additional notes about how to deploy this on a live system.
 
  --------
   [TODO](../TODO.md) 
+  ```
 - create signup page.
 - create user account page.
 - create home page and in the including like : Text Generation  , Parapgraph Generation, AI ChatBot , Javascript Converter, AI SCIFI Images etc .
 - Then after if i click  Text Generation and summar page  and if i clicked Parapgraph Generation then it will show Generate Parapgraph.i clicked AI ChatBot
   then it will show AI ChatBot with AI chatbot .and if i clicked Javascript Converter then it will show translate to english to Javascript . and if i clickedAI SCIFI 
   Images then it will show generates AI SCIFI Images.
+```
