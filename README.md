@@ -13,7 +13,6 @@
 ## 📝 Table of Contents
 - [About](#about)
 - [Getting Started](#getting_started)
-- [Deployment](#deployment)
 - [Usage](#usage)
 - [Built Using](#built_using)
 - [TODO](../TODO.md)
@@ -75,5 +74,10 @@ Add additional notes about how to deploy this on a live system.
 - [NodeJs](nodejs.org/en/) - Server Environment
 
  --------
-
-
+  [TODO](../TODO.md) 
+- create signup page.
+- create user account page.
+- create home page and in the including like : Text Generation  , Parapgraph Generation, AI ChatBot , Javascript Converter, AI SCIFI Images etc .
+- Then after if i click  Text Generation and summar page  and if i clicked Parapgraph Generation then it will show Generate Parapgraph.i clicked AI ChatBot
+  then it will show AI ChatBot with AI chatbot .and if i clicked Javascript Converter then it will show translate to english to Javascript . and if i clickedAI SCIFI 
+  Images then it will show generates AI SCIFI Images.
