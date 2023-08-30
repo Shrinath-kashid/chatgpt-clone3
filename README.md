@@ -8,8 +8,7 @@
 <h3 align="center">Chatgpt-clone3</h3>
 ---
 
-<p align="center"> Netflix Clone built using React, Redux Toolkit, Firebase, Styled Components, Axios, Node.js, Express and MongoDB.
-</p>
+<p align="center"> Netflix Clone built using MongoDB, Express, React, and Node.js
 
 ## 📝 Table of Contents
 - [About](#about)
@@ -20,7 +19,9 @@
 - [TODO](../TODO.md)
 
 ## 🧐 About <a name = "about"></a>
-The objective of a Netflix clone is to provide quality video content and a seamless user experience..The Netflix clone project's primary objective is to offer users a familiar and enjoyable streaming experience similar to Netflix. It seeks to deliver seamless navigation, personalized content recommendations, and a user-friendly interface that makes discovering and watching movies and shows easy and engaging. By replicating the success of Netflix while possibly incorporating unique features and improvements, the project aims to cater to entertainment enthusiasts worldwide and become a go-to platform for their viewing pleasure.
+Mern Stack ChatGPT Clone Mern Stack Project Mern App
+Full-Stack Web Development using the MERN Stack
+In this MERN stack, we'll walk you through the process of building a full-stack web application using MongoDB, Express, React, and Node.js. You'll learn how to build a responsive and dynamic user interface with React, create a back-end API with Express and Node.js, and store data in a NoSQL database with MongoDB. This step-by-step web development tutorial is perfect for beginners who want to learn how to build full-stack web applications from scratch.
 
 ![Screenshot (701)](https://github.com/Shrinath-kashid/Netflix-clone/assets/136973641/72b1755b-590f-49fd-b989-e10b144d6828)
 
